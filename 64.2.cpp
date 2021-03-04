@@ -95,6 +95,7 @@ int main()
     }
 
     	cout << "Rekurencyjne: " << liczRekurencyjne << endl;
+	cout << "Pierwszy rekurencyjny: " << liczRekurencyjne << endl;
 
     	dane.close();
     	dane2.close();
